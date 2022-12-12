@@ -1,10 +1,11 @@
 ### sh_38
 
 
+### Git
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=timber3&show_icons=true&theme=cobalt)
 
 
-
+### Solve
 [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=timber3)](https://solved.ac/timber3/)
 
 
