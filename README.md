@@ -6,7 +6,7 @@
 
 
 ### Solve
-[![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=timber3)](https://solved.ac/timber3/)
+[![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=timber0308)](https://solved.ac/timber0308/)
 
 
 <!--
