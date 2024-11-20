@@ -44,7 +44,13 @@
 [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=timber0308)](https://solved.ac/timber0308/)
 
 ## my Git Animals!
-
+<a href="https://github.com/devxb/gitanimals">
+<img
+  src="https://render.gitanimals.org/farms/timber3"
+  width="600"
+  height="300"
+/>
+</a>
 <!--
 **timber3/timber3** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
