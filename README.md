@@ -1,55 +1,50 @@
-## 오승현(timber3)
+### SH's Repository
 
-## 반갑습니다!
+"I'm studying to provide you with a better life!!"
+
+<a href="https://velog.io/@sh_38/posts">
+  <img src="https://img.shields.io/badge/velog-12755B?style=for-the-badge&logo=Velog&logoColor=#20C997">
+</a>
+<br>
 
 ## Technologies
-### BackEnd
-- JAVA
-- SpringBoot
-- MySQL
 
-### Infra
-- Linux
-- Docker
-- Jenkins
-- Nginx
+**MainSkill**: Java, Spring Boot, MySQL
 
+**Usable**: Linux, Docker, Jenkins, Nginx
 
-## Timeline
-- (2023.07 ~ 2024.06) 삼성 청년 소프트웨어 아카데미(SSAFY) 10기 수료
-- (2017.03 ~ 2023.02) 계명대학교 컴퓨터공학과 졸업
-
-## Awards
-- (2024.04) 삼성 청년 소프트웨어 아카데미(SSAFY) - 특화 프로젝트 우수상 수상(삼성전자)
-
+<br>
+<p align="left">
+  <img src="https://github.com/user-attachments/assets/9a1ece92-b1d1-465e-a85a-eaa010ddc2ca" width="40" height="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/spring/spring-original.svg" width="40" height="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mysql/mysql-original.svg" width="40" height="40"/>
+</p>
 
 ## Certified
-기술역량
-- (2024.09) ADsP - 한국데이터산업진흥원
-- (2024.06) SQLD - 한국데이터산업진흥원
-- (2023.09) 정보처리기사 - 한국산업인력공단
 
-언어역량
-- (2024.09) OPIC(영어) IM1 - ACTFL
+정보처리기사
 
+SQLD
 
+ADsP
 
+OPIc(En) - IM 1
 
-## Git
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=timber3&show_icons=true&theme=cobalt)
+<br>
 
----
+## Timeline
+- (2023.07 ~ 2024.06) 삼성 청년 소프트웨어 아카데미(SSAFY) 10기
+- (2017.03 ~ 2023.02) 계명대학교 컴퓨터공학과
+<br>
+
+## Awards
+- (2024.04) 삼성 청년 소프트웨어 아카데미(SSAFY) - 특화 프로젝트 우수상(삼성전자)
+<br>
 
 ## Solve
 [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=timber0308)](https://solved.ac/timber0308/)
+<br>
 
-## my Git Animals!
-<a href="https://github.com/devxb/gitanimals">
-<img
-  src="https://render.gitanimals.org/farms/timber3"
-  width="600"
-  height="300"
-/>
 </a>
 <!--
 **timber3/timber3** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
